@@ -12,6 +12,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 In the project, the frameworks used are
 1. React
 2. Tailwind
-3. 
+
 
 
